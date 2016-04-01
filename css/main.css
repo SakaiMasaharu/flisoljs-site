@@ -65,6 +65,19 @@ a:hover, a:focus {
   color: #d43133;
 }
 
+a.colaborador:link, a.colaborador:visited {
+	text-decoration: none;
+        color: #ff8e2a;
+	}
+a.colaborador:hover {
+	text-decoration: underline; 
+        color: #ff8e2a;
+	}
+a.colaborador:active {
+	text-decoration: none;
+        color: #ff8e2a;
+	}
+
 hr {
   border-top: 1px solid #e5e5e5;
   border-bottom: 1px solid #fff;
