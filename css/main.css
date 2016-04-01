@@ -95,6 +95,11 @@ hr {
   color: #FFF;
 }
 
+.palestras{
+    text-align: center; width: 290px; height:200px; -moz-border-radius:7px; 
+    -webkit-border-radius:7px; border-radius:7px; background:#EEE;padding:10px;
+}
+
 .btn-primary {
   padding: 8px 20px;
   background: #ff8e2a;
